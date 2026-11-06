@@ -1,6 +1,6 @@
 # SKCD
 
-Code and data for the paper **Conditional Distributional Treatment
+Implementation and data for the paper **Conditional Distributional Treatment
 Effects: Doubly Robust Estimation and Testing**, Saksham Jain and Alex Luedtke,
 [ICML 2026 / arXiv](https://arxiv.org/abs/2603.16829v2).
 
